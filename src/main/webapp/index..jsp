@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	HELLOWROLD
-	
+	<div>hello world</div>
+	<div>hello world v0.1</div>
 </body>
 </html>
